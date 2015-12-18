@@ -7,7 +7,7 @@ http://my.oschina.net/klttl/blog/546950?fromerr=edY14KhL
 目前Android版本经过了近3周从零边学边做，终于移植成功。目前Android版本功能功能简单基本上就是能播放视频；添加简单的UI交互界面；
 我在sony、小米2、红米note、华为、三星手机没问题，可以正常播放；
 
-目前已知的bug：
+目前已知的bug：                                                                                                                     
 1、在Android系统5.0以上的版本会奔溃，主要是JNI不兼容性；                                                                                 
 2、在小米4上会直接闪退；                                                                                                                 
 3、声音有部分噪音，在音频这块OpenAL没处理好；                                                                                           
