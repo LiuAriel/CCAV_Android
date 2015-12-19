@@ -1,6 +1,8 @@
 # CCAV_Android
  c++11  +  SDL2（渲染） + ffmpeg （2.8.3_neon）+OpenAL（声音） + java （UI）= Android播放器
 
+HEVC（H265）文件测试连接地址：http://pan.baidu.com/s/1c0MGdkk
+
 具体的效果可以进入博客查看：
 http://my.oschina.net/klttl/blog/546950?fromerr=edY14KhL
 
