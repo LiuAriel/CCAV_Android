@@ -3,8 +3,6 @@
 
 HEVC（H265）文件测试连接地址：http://pan.baidu.com/s/1c0MGdkk
 
-具体的效果可以进入博客查看：
-http://my.oschina.net/klttl/blog/546950?fromerr=edY14KhL
 
 目前Android版本经过了近3周从零边学边做，终于移植成功。目前Android版本功能。
 功能简单基本上就是能播放视频；添加简单的UI交互界面；
